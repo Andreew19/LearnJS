@@ -1,10 +1,14 @@
-var div, container = document.getElementById('container')
-
-for(let i=0; i<5; i++) {
-  div = document.createElement('div')
-  div.onclick = function() {
-    alert('This is box #' + i)
-  }
-  container.appendChild(div)
+var defaultPerson = {
+  name : {
+     first : "Andrew",
+     last : "k"
+  },
+  favActiviti : "programming"
 }
 
+function assambleString(p = defaultPerson) {
+  myString = `The ${p.name.first}. he favarit activiti is ${p.favActiviti}`
+  document.write(myString)
+  
+}
+assambleString()
