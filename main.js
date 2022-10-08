@@ -1,14 +1,10 @@
-var defaultPerson = {
-  name : {
-     first : "Andrew",
-     last : "k"
-  },
-  favActiviti : "programming"
+let a = 5
+
+const sq = (a) => {
+  a*a
 }
 
-function assambleString(p = defaultPerson) {
-  myString = `The ${p.name.first}. he favarit activiti is ${p.favActiviti}`
-  document.write(myString)
-  
+const sumSq = (sum) => {
+  sum = sq + sq
 }
-assambleString()
+
