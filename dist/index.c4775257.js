@@ -3,6 +3,8 @@ const schools = [
     "Washencton & Lee",
     "Wakefield"
 ];
-console.log(schools.join(","));
+const wSchool = schools.filter((school)=>school[0] === "W") // Use filter
+;
+document.write(wSchool);
 
 //# sourceMappingURL=index.c4775257.js.map

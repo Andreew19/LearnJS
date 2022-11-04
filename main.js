@@ -4,4 +4,6 @@ const schools = [
   "Wakefield"
 ]
 
-console.log(schools.join(","))
+const wSchool = schools.filter(school => school[0] === "W") // Use filter
+
+document.write(wSchool)

@@ -1,6 +1,6 @@
 4147
 47/home/andrew/projects/LearnJS/package-lock.json1667484048341870207 0
-37/home/andrew/projects/LearnJS/main.js1667561663319207735 0
+37/home/andrew/projects/LearnJS/main.js1667562066405933591 0
 39/home/andrew/projects/LearnJS/style.css1665237845865705129 0
 42/home/andrew/projects/LearnJS/package.json1667484195599291659 0
 68/home/andrew/projects/LearnJS/node_modules/@types/parse-json/LICENSE1667484038037490914 0
@@ -583,7 +583,7 @@
 93/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/features/internationalization.js1667484043057675700 0
 55/home/andrew/projects/LearnJS/node_modules/browserslist1667484038977525515 1
 83/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/features/websockets.js1667484043773702056 0
-34/home/andrew/projects/LearnJS/dist1667561663367209486 1
+34/home/andrew/projects/LearnJS/dist1667562066509937395 1
 89/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/features/addeventlistener.js1667484038681514619 0
 91/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/features/css-widows-orphans.js1667484042473654203 0
 125/home/andrew/projects/LearnJS/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/sub/a1667484041049601786 1
@@ -1446,7 +1446,7 @@
 79/home/andrew/projects/LearnJS/node_modules/dom-serializer/node_modules/entities1667484038765517712 1
 81/home/andrew/projects/LearnJS/node_modules/entities/lib/decode_codepoint.d.ts.map1667484038997526251 0
 63/home/andrew/projects/LearnJS/node_modules/yaml/types/binary.js1667484038293500337 0
-54/home/andrew/projects/LearnJS/dist/LearnJS.3464ddca.js1667561579856164778 0
+54/home/andrew/projects/LearnJS/dist/LearnJS.3464ddca.js1667562026148461223 0
 72/home/andrew/projects/LearnJS/node_modules/nullthrows/nullthrows.js.flow1667484039053528312 0
 74/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/regions/UZ.js1667484043725700290 0
 62/home/andrew/projects/LearnJS/node_modules/nth-check/README.md1667484038885522128 0
@@ -1663,7 +1663,7 @@
 75/home/andrew/projects/LearnJS/node_modules/css-what/lib/commonjs/types.d.ts1667484039205533908 0
 92/home/andrew/projects/LearnJS/node_modules/@parcel/utils/test/input/sourcemap/source-root.js1667484042629659945 0
 67/home/andrew/projects/LearnJS/node_modules/@swc/helpers/lib/_set.js1667484040081566154 0
-53/home/andrew/projects/LearnJS/dist/index.3a01df49.css1667561579856164778 0
+53/home/andrew/projects/LearnJS/dist/index.3a01df49.css1667562026140460930 0
 75/home/andrew/projects/LearnJS/node_modules/term-size/vendor/macos/.DS_Store1667484038485507405 0
 77/home/andrew/projects/LearnJS/node_modules/@parcel/codeframe/lib/codeframe.js1667484040381577196 0
 98/home/andrew/projects/LearnJS/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/sample-mdb.txt1667484042617659504 0
@@ -1731,7 +1731,7 @@
 57/home/andrew/projects/LearnJS/node_modules/semver/LICENSE1667484037893485613 0
 74/home/andrew/projects/LearnJS/node_modules/dotenv-expand/dotenv-expand.png1667484037953487822 0
 78/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/regions/alt-an.js1667484039065528755 0
-52/home/andrew/projects/LearnJS/dist/index.c4775257.js1667561663363209340 0
+52/home/andrew/projects/LearnJS/dist/index.c4775257.js1667562066505937248 0
 114/home/andrew/projects/LearnJS/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false1667484042529656265 1
 74/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/regions/AL.js1667484038997526251 0
 90/home/andrew/projects/LearnJS/node_modules/@parcel/watcher/src/shared/BruteForceBackend.cc1667484039369539945 0
@@ -1761,7 +1761,7 @@
 78/home/andrew/projects/LearnJS/node_modules/@parcel/runtime-js/lib/JSRuntime.js1667484040381577196 0
 64/home/andrew/projects/LearnJS/node_modules/msgpackr/iterators.js1667484039021527135 0
 66/home/andrew/projects/LearnJS/node_modules/@lezer/common/README.md1667484039561547012 0
-45/home/andrew/projects/LearnJS/dist/index.html1667561579856164778 0
+45/home/andrew/projects/LearnJS/dist/index.html1667562026188462686 0
 76/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/features/ogv.js1667484043365687038 0
 74/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/regions/DZ.js1667484042669661418 0
 100/home/andrew/projects/LearnJS/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest2.c1667484041077602816 0
@@ -1789,10 +1789,10 @@
 118/home/andrew/projects/LearnJS/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory1667484042473654203 1
 90/home/andrew/projects/LearnJS/node_modules/entities/lib/generated/decode-data-xml.d.ts.map1667484039025527282 0
 85/home/andrew/projects/LearnJS/node_modules/posthtml-parser/dist/location-tracker.d.ts1667484038753517269 0
-58/home/andrew/projects/LearnJS/dist/LearnJS.3464ddca.js.map1667561579880165653 0
+58/home/andrew/projects/LearnJS/dist/LearnJS.3464ddca.js.map1667562026160461661 0
 75/home/andrew/projects/LearnJS/node_modules/@parcel/packager-js/package.json1667484041361613271 0
 91/home/andrew/projects/LearnJS/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1667484038953524632 0
-56/home/andrew/projects/LearnJS/dist/index.c4775257.js.map1667561663367209486 0
+56/home/andrew/projects/LearnJS/dist/index.c4775257.js.map1667562066509937395 0
 70/home/andrew/projects/LearnJS/node_modules/@parcel/optimizer-image/lib1667484041097603552 1
 66/home/andrew/projects/LearnJS/node_modules/@jridgewell/resolve-uri1667484038285500043 1
 59/home/andrew/projects/LearnJS/node_modules/parcel/README.md1667484041309611356 0
@@ -2368,7 +2368,7 @@
 73/home/andrew/projects/LearnJS/node_modules/xxhash-wasm/esm/xxhash-wasm.js1667484038561510203 0
 81/home/andrew/projects/LearnJS/node_modules/lmdb/dependencies/lz4/lib/liblz4.pc.in1667484042325648755 0
 74/home/andrew/projects/LearnJS/node_modules/lmdb/dependencies/lz4/lib/lz4.h1667484042121641246 0
-57/home/andrew/projects/LearnJS/dist/index.3a01df49.css.map1667561579880165653 0
+57/home/andrew/projects/LearnJS/dist/index.3a01df49.css.map1667562026148461223 0
 64/home/andrew/projects/LearnJS/node_modules/terser/bin/terser.mjs1667484041501618423 0
 91/home/andrew/projects/LearnJS/node_modules/caniuse-lite/data/features/html-media-capture.js1667484042945671577 0
 73/home/andrew/projects/LearnJS/node_modules/css-what/lib/es/index.d.ts.map1667484038841520508 0
